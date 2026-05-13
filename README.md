@@ -86,6 +86,9 @@ while True:
 ARP Server Waiting...
 Connected with ('127.0.0.1', 54321)
 ```
+<img width="602" height="86" alt="image" src="https://github.com/user-attachments/assets/0e797a0a-831d-4f15-913f-d0be56e3d9b6" />
+
+
 
 ### Client
 
@@ -96,6 +99,7 @@ MAC Address: 6A:08:AA:C2
 Enter Logical Address: 165.165.79.1
 MAC Address: 8A:BC:E3:FA
 ```
+<img width="655" height="111" alt="image" src="https://github.com/user-attachments/assets/8b1594a2-fe24-4610-94bd-856de8f5042e" />
 
 ---
 
@@ -180,6 +184,8 @@ while True:
 RARP Server Waiting...
 Connected with ('127.0.0.1', 54322)
 ```
+<img width="468" height="88" alt="image" src="https://github.com/user-attachments/assets/7622c1bd-f09b-45cd-a1cb-7f5cdb683f82" />
+
 
 ### Client
 
@@ -190,6 +196,7 @@ Logical Address: 192.168.1.100
 Enter MAC Address: 8A:BC:E3:FA
 Logical Address: 192.168.1.99
 ```
+<img width="524" height="115" alt="image" src="https://github.com/user-attachments/assets/fbd29ac0-aedd-45d8-92ae-47e547754a81" />
 
 ---
 
